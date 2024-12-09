@@ -1,3 +1,3 @@
 # gemini_ai
 
-A new Flutter project.
+A simple gemini chatbot app.
